@@ -20,7 +20,7 @@
         android:id="@+id/tv_area_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Area Name"
+        android:text="@string/label_area_name"
         android:textColor="@color/blue"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -31,7 +31,7 @@
 
     <EditText
         android:id="@+id/edt_area_name"
-        android:hint="Input your area name"
+        android:hint="@string/hint_input_area_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
@@ -53,7 +53,7 @@
             android:id="@+id/btn_finish_task"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Finish Task"
+            android:text="@string/action_finish_task"
             android:textAllCaps="false"
             android:layout_marginTop="8dp"
             android:layout_marginHorizontal="16dp"

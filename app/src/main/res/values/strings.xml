@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">Temp App</string>
     <string name="label_tag_points_counts">%1$s tags points</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_add">Add</string>
+    <string name="label_total_area">Total Area</string>
+    <string name="label_total_points">Total Points</string>
+    <string name="label_edit_name">Edit Name</string>
+    <string name="label_finish_task">Finish Task</string>
+    <string name="action_edit_points">Edit Points</string>
+    <string name="action_delete">Delete</string>
+    <string name="label_area_name">Area Name</string>
+    <string name="hint_input_area_name">Input your area name</string>
+    <string name="action_finish_task">Finish Task</string>
+    <string name="label_delete_area">Delete Area</string>
 </resources>

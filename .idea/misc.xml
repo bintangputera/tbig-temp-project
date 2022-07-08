@@ -9,11 +9,14 @@
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/bg_border_dark_blue_button.xml" value="0.1175" />
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/bg_border_red_button.xml" value="0.1175" />
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/bg_uncomplete_assignment_item_border.xml" value="0.1175" />
+        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/ic_location.xml" value="0.1175" />
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/ic_location_map.xml" value="0.1175" />
-        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/activity_add_new_area.xml" value="0.22" />
+        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/drawable/ic_success.xml" value="0.1175" />
+        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/activity_add_new_area.xml" value="0.16" />
         <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/item_assignment.xml" value="0.25" />
+        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/fragment_custom_dialog.xml" value="0.21041666666666667" />
+        <entry key="..\:/Project/NBS/AndroidProject/temp-project/app/src/main/res/layout/item_assignment.xml" value="0.16" />
       </map>
     </option>
   </component>

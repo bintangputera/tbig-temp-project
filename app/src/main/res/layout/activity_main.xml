@@ -20,7 +20,7 @@
         android:id="@+id/btn_add_assignment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add"
+        android:text="@string/action_add"
         android:layout_marginTop="16dp"
         android:layout_marginHorizontal="16dp"
         android:paddingVertical="16dp"
@@ -66,7 +66,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:text="Total Area"
+                android:text="@string/label_total_area"
                 app:layout_constraintStart_toEndOf="@id/cv_total_area"
                 app:layout_constraintTop_toTopOf="@id/cv_total_area" />
 
@@ -112,7 +112,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:text="Total Points"
+                android:text="@string/label_total_points"
                 app:layout_constraintStart_toEndOf="@id/cv_total_points"
                 app:layout_constraintTop_toTopOf="@id/cv_total_points" />
 
@@ -168,7 +168,7 @@
             android:id="@+id/btn_edit_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Edit Name"
+            android:text="@string/label_edit_name"
             android:textColor="#2196F3"
             android:textAllCaps="false"
             android:layout_marginHorizontal="16dp"
@@ -180,7 +180,7 @@
             android:id="@+id/btn_finish_task"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Finish Task"
+            android:text="@string/label_finish_task"
             android:textAllCaps="false"
             android:layout_marginHorizontal="16dp"
             android:paddingVertical="16dp"
